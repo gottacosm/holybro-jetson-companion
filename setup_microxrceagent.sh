@@ -27,7 +27,7 @@
 # Define variables
 SERVICE_FILE="/etc/systemd/system/microxrceagent.service"
 SERVICE_NAME="microxrceagent.service"
-USER_BIN_PATH="/usr/bin/MicroXRCEAgent"
+USER_BIN_PATH="/usr/local/bin/MicroXRCEAgent"
 TRANSPORT="udp4"
 PORT=8888
 DEVICE="/dev/ttyTHS1"
