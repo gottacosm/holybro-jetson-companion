@@ -14,7 +14,7 @@ This repository contains bash scripts to help you set up a Holybro Pixhawk with 
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/holybro_pixhawk_jetson_setup.git
+   git clone https://github.com/gottacosm/holybro_pixhawk_jetson_setup.git
    cd holybro_pixhawk_jetson_setup
    ```
 
